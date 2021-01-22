@@ -5,7 +5,7 @@
 ## My activity
 [![das's Github stats](https://github-readme-stats.vercel.app/api?username=dlsf&theme=radical)](https://github-readme-stats.vercel.app/api?username=dlsf&theme=radical)
 <br>
-## My languages
+## My languages (on Github)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlsf)](https://github-readme-stats.vercel.app/api/top-langs/?username=dlsf)
 
 <!--
