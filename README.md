@@ -1,6 +1,6 @@
-# Hi there 👋
+## Hi there 👋
 
-I'm Daniel, a self-taught programmer with interest in JVM languages. 
+I am a self-taught programmer with interest in JVM languages. 
 
 - 🔭 I’m currently working on [IridiumSkyblock](https://github.com/IridiumLLC/IridiumSkyblock) and the Minecraft server iOser.de
 - 🌱 I’m currently learning Kotlin
