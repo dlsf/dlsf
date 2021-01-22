@@ -1,11 +1,16 @@
 # Hi there 👋
 
-![]((https://github-readme-stats.vercel.app/api?username=dlsf&theme=radical)[https://github-readme-stats.vercel.app/api?username=dlsf&theme=radical])
+I'm Daniel, a self-taught programmer with interest in JVM languages. 
 
-## My activity
+- 🔭 I’m currently working on [IridiumSkyblock](https://github.com/IridiumLLC/IridiumSkyblock) and the Minecraft server iOser.de
+- 🌱 I’m currently learning Kotlin
+- 📫 How to reach me: 
+  - Discord: das_#9677
+
+### My activity
 [![das's Github stats](https://github-readme-stats.vercel.app/api?username=dlsf&theme=radical)](https://github-readme-stats.vercel.app/api?username=dlsf&theme=radical)
 <br>
-## My languages (on Github)
+### My languages (on Github)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlsf)](https://github-readme-stats.vercel.app/api/top-langs/?username=dlsf)
 
 <!--
