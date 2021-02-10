@@ -2,8 +2,8 @@
 
 I am a self-taught programmer with interest in JVM languages. 
 
-- 🔭 I’m currently working on [IridiumSkyblock](https://github.com/IridiumLLC/IridiumSkyblock) and the Minecraft server iOser.de
-- 🌱 I’m currently learning Kotlin
+- 🔭 I’m currently working on [IridiumSkyblock](https://github.com/IridiumLLC/IridiumSkyblock), [DeinPlugin.net](https://github.com/DeinPluginNet) and the Minecraft server iOser.de
+- 🌱 I’m currently learning Kotlin & Go
 - 📫 How to reach me: 
   - Discord: das_#9677
 
