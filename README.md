@@ -3,7 +3,7 @@
 I am a self-taught programmer with interest in JVM languages. 
 
 - 🔭 I’m currently working at [@Iridium-Development](https://github.com/Iridium-Development/), [@devcordde](https://github.com/devcordde) and [@DeinPlugin](https://github.com/DeinPlugin).
-- 🌱 I’m currently learning Kotlin & Go
+- 🌱 I’m currently learning Kotlin & Clojure
 - 📫 How to reach me: 
   - Discord: das_#9677
 
