@@ -3,7 +3,7 @@
 I am a self-taught programmer with interest in JVM languages. 
 
 - 🔭 I’m currently working at [@devcordde](https://github.com/devcordde) and [@Iridium-Development](https://github.com/Iridium-Development/)
-- 🌱 I’m currently learning Dart
+- 🌱 I’m currently learning Rust & Haskell
 - 📫 How to reach me: 
   - Discord: @das_
 
